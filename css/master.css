@@ -1,0 +1,17 @@
+
+.bg-header {
+  background-color: #fdd835;
+}
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+}
+
+#title {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 41pt;
+  padding: 2em;
+  height: inherit;
+}
