@@ -15,3 +15,7 @@
   padding: 2em;
   height: inherit;
 }
+
+img {    
+  height: 255px;
+}
